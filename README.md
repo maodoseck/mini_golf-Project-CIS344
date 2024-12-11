@@ -6,6 +6,7 @@ Features
 - I Addded a section for golfers and the ability to manage their information.
 - I added a Create and View for tee golf time reservations.
 - Update special requests for special reservations.
+- The SQL is in the ZIP File
 
 Download Tutorial
 1. Download the ZIP file.
